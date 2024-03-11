@@ -1,1 +1,2 @@
-# git-hub-to-lambda_practice_aws_boot_camp
+# github-to-lambda-demo
+# temp
